@@ -74,4 +74,6 @@ You are requested to do the same thing as of task #6 but on the mobile app of Wi
 ## Deliverable
 Please, provide a GitHub repo/cloud folder with the solutions to the tasks and instructions on how to run the tests.
 
+You can provide a Makefile with targets for easier executions and a Dockerfile if you wish.
+
 Good luck!

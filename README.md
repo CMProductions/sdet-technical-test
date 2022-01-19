@@ -70,7 +70,7 @@ Your third task is to extensively test that API endpoint. You can use the provid
 Provide a list of test cases (minimum 10, maximum 20), covering both functional and non-functional, listing the actual parameters used to execute your test cases (you can use a test matrix). Try to cover as many features and edge cases as possible: this endpoint allows a lot of parameter combinations.
 
 ### Bonus - Automated API testing
-You can automate a part of the task (3 test cases at least) or the whole task if you want to. You can use whatever technology and framework you like (we use Js + Supertest, Js + Cypress, Java + RestAssured and also Postman).
+You can automate a part of the task (5 test cases at least) or the whole task if you want to. You can use whatever technology and framework you like (we use Js + Supertest, Js + Cypress, Java + RestAssured and also Postman).
 
 For sake of simplicity, you can use the same framework used in task #5.
 

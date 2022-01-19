@@ -59,10 +59,10 @@ Use as many features of the testing framework as you want, use as many design pa
 We will evaluate your programming skills and web automation skills.
 
 ## Task 6 - API testing & test case generation
-Here you'll find a REST API:
+Given the REST API:
 https://developers.giphy.com/docs/api/endpoint#search
 
-This is a sample call to retrieve a list of GIFs:
+And this call to retrieve a list of GIFs:
 http://api.giphy.com/v1/gifs/search?q=funny+dog&api_key=dc6zaTOxFJmzC
 
 Your third task is to extensively test that API endpoint. You can use the provided *api_key*: it’s a public key for testing out that API. Please, read the documentation before starting.

@@ -65,7 +65,7 @@ https://developers.giphy.com/docs/api/endpoint#search
 And this call to retrieve a list of GIFs:
 http://api.giphy.com/v1/gifs/search?q=funny+dog&api_key=dc6zaTOxFJmzC
 
-Your third task is to extensively test that API endpoint. You can use the provided *api_key*: it’s a public key for testing out that API. Please, read the documentation before starting.
+Your task is to extensively test that API endpoint. You can use the provided *api_key*: it’s a public key for testing out that API. Please, read the documentation before starting.
 
 Provide a list of test cases (minimum 10, maximum 20), covering both functional and non-functional, listing the actual parameters used to execute your test cases (you can use a test matrix). Try to cover as many features and edge cases as possible: this endpoint allows a lot of parameter combinations.
 

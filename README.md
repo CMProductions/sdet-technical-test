@@ -77,6 +77,6 @@ For sake of simplicity, you can use the same framework used in task #5.
 ## Deliverable
 Please, provide a GitHub repo/cloud folder with the solutions to the tasks and instructions on how to run the tests.
 
-If you prefer, for ease of execution, you can provide a Makefile and a Dockerfile. This is not required: no penalties are given if you do not deliver such files.
+If you prefer, for your own ease, you can work with a Makefile and a Dockerfile. This is not required: no penalties are given if you do not deliver such files. 
 
 Good luck!
